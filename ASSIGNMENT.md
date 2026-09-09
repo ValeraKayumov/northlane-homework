@@ -1,6 +1,6 @@
 # Senior AI Analyst - Take-home assignment
 
-Improvado, Transformation Team. Expected effort: 6-8 focused hours. Deadline: 5 calendar days from receiving this kit. Deliverables in English.
+Improvado, Transformation Team. Deadline: 5 calendar days from receiving this kit. Deliverables in English.
 
 ## The situation
 
@@ -44,7 +44,7 @@ Like any real client data, these exports contain issues. Finding, quantifying, a
 - **AI tools are allowed and expected.** We use Claude Code daily; pretending otherwise would be silly. What we grade is your judgment: what you asked, what you verified, and what you shipped.
 - Any stack is fine as long as it runs locally from your README.
 - If something is ambiguous, make an assumption, write it down, and move on - that mirrors the job.
-- Do not spend more than ~8 hours. An honest "here is what I would do next with more time" section beats a gold-plated half-answer.
+- How much time each part deserves is your call. An honest "here is what I would do next with more time" section beats a gold-plated half-answer.
 
 ## What happens next
 
