@@ -1,19 +1,19 @@
 campaign_id,platform,campaign_name,brand_code,status,is_deleted,deleted_at,account_currency,created_at
-F-1001,facebook,AUR_US_Meta_Prospecting_2026Q2,AUR,active,0,,USD,2026-04-18
-F-1002,facebook,AUR_EU_Meta_Retargeting_2026Q2,AUR,active,0,,USD,2026-04-10
-F-1003,facebook,aurelia|prospecting|meta|may26,AUR,active,0,,USD,2026-04-14
-F-1004,facebook,PKF_US_Meta_Conversions,PKF,active,0,,USD,2026-04-18
-F-1005,facebook,PKF_CA_Meta_Prospecting,PKF,active,0,,USD,2026-04-19
-F-1006,facebook,NMB_US_Meta_Prospecting_2026Q2,NMB,active,0,,USD,2026-04-16
-F-1007,facebook,NMB_US_Meta_Retargeting_2026Q2,NMB,active,0,,USD,2026-04-16
-F-1008,facebook,Campaign #17 - old test,NMB,removed,1,2026-06-10,USD,2026-04-13
-G-2001,google,AUR_US_Search_Brand_2026Q2,AUR,active,0,,EUR,2026-04-17
-G-2002,google,AUR_EU_Search_NonBrand_2026Q2,AUR,active,0,,EUR,2026-04-11
-G-2003,google,PKF_US_Search_Brand_2026Q2,PKF,active,0,,USD,2026-04-12
-G-2004,google,pkf|nonbrand|search|may26,PKF,active,0,,USD,2026-04-11
+F-1001,facebook,AUR_US_Meta_Prospecting_2026Q2,AUR,active,0,,USD,2026-04-17
+F-1002,facebook,AUR_EU_Meta_Retargeting_2026Q2,AUR,active,0,,USD,2026-04-13
+F-1003,facebook,aurelia|prospecting|meta|may26,AUR,active,0,,USD,2026-04-17
+F-1004,facebook,PKF_US_Meta_Conversions,PKF,active,0,,USD,2026-04-15
+F-1005,facebook,PKF_CA_Meta_Prospecting,PKF,active,0,,USD,2026-04-17
+F-1006,facebook,NMB_US_Meta_Prospecting_2026Q2,NMB,active,0,,USD,2026-04-13
+F-1007,facebook,NMB_US_Meta_Retargeting_2026Q2,NMB,active,0,,USD,2026-04-14
+F-1008,facebook,Campaign #17 - old test,NMB,removed,1,2026-06-10,USD,2026-04-10
+G-2001,google,AUR_US_Search_Brand_2026Q2,AUR,active,0,,EUR,2026-04-19
+G-2002,google,AUR_EU_Search_NonBrand_2026Q2,AUR,active,0,,EUR,2026-04-14
+G-2003,google,PKF_US_Search_Brand_2026Q2,PKF,active,0,,USD,2026-04-13
+G-2004,google,pkf|nonbrand|search|may26,PKF,active,0,,USD,2026-04-19
 G-2005,google,PKF_US_Display_Legacy,PKF,removed,1,2026-06-10,USD,2026-04-14
-G-2006,google,NMB_US_Search_Brand_2026Q2,NMB,active,0,,USD,2026-04-17
-G-2007,google,NMB_US_PMax_2026Q2,NMB,active,0,,USD,2026-04-18
-T-3001,tiktok,AUR_TikTok_Prospecting_2026Q2,AUR,active,0,,USD,2026-04-19
-T-3002,tiktok,PKF_TikTok_Spark_2026Q2,PKF,active,0,,USD,2026-04-12
-T-3003,tiktok,NMB_TikTok_Prospecting_2026Q2,NMB,active,0,,USD,2026-04-18
+G-2006,google,NMB_US_Search_Brand_2026Q2,NMB,active,0,,USD,2026-04-19
+G-2007,google,NMB_US_PMax_2026Q2,NMB,active,0,,USD,2026-04-14
+T-3001,tiktok,AUR_TikTok_Prospecting_2026Q2,AUR,active,0,,USD,2026-04-16
+T-3002,tiktok,PKF_TikTok_Spark_2026Q2,PKF,active,0,,USD,2026-04-11
+T-3003,tiktok,NMB_TikTok_Prospecting_2026Q2,NMB,active,0,,USD,2026-04-10
